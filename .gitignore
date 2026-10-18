@@ -1,0 +1,13 @@
+bin/
+obj/
+.vscode/
+.vs/
+*.log
+source/
+replica/
+sourceConflict*/
+replicaConflict*/
+sourceTeste*/
+replicaTeste*/
+.DS_Store
+Thumbs.db
